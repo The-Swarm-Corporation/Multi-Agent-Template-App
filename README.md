@@ -1,7 +1,9 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Python Package Template
-A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
+# Multi-Agent Template App
+A radically simple, reliable, and high performance template to enable you to quickly get set up building multi-agent applications
+
+
 
 
 ## Installation
@@ -62,3 +64,18 @@ We use MK docs. This repo comes with the zeta docs. All the docs configurations 
 
 # License
 MIT
+
+
+# Citation
+Please cite Swarms in your paper or your project if you found it beneficial in any way! Appreciate you.
+
+```bibtex
+@misc{swarms,
+  author = {Gomez, Kye},
+  title = {{Swarms: The Multi-Agent Collaboration Framework}},
+  howpublished = {\url{https://github.com/kyegomez/swarms}},
+  year = {2023},
+  note = {Accessed: Date}
+}
+```
+
