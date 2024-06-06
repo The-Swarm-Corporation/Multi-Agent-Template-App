@@ -24,11 +24,8 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 swarms = "*"
-zetascale = "*"
-
-[tool.poetry.dev-dependencies]
-# Add development dependencies here
-
+pydantic = "*"
+fastapi = "*"
 
 [tool.poetry.group.lint.dependencies]
 ruff = "^0.1.6"
