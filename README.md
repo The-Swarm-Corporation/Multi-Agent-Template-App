@@ -11,15 +11,8 @@ A radically simple, reliable, and high performance template to enable you to qui
 You can install the package using pip
 
 ```bash
-pip install -e .
+$ pip3 install -r requirements.txt
 ```
-
-# Usage
-```python
-print("hello world")
-
-```
-
 
 
 ### Code Quality 🧹
